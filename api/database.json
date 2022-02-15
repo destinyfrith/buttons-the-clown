@@ -1,0 +1,24 @@
+{
+    "clowns": [],
+    "completedParties": [],
+    "requests": [
+        {
+            "id": 1,
+            "kidName": "Karah",
+            "parentName": "Leslie",
+            "address": "232 Lookover",
+            "partySize": "40",
+            "partyDate": "2021-01-31",
+            "partyLength": "3 hours"
+        },
+        {
+            "kidName": "Brandon",
+            "parentName": "Julie",
+            "address": "5508 Winn Ave",
+            "partySize": "23",
+            "partyDate": "2022-02-02",
+            "partyLength": "2 hours",
+            "id": 2
+        }
+    ]
+}
